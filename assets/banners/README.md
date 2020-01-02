@@ -1,5 +1,8 @@
 # Photo Attribution
 
+- girl-with-bubble-leo-rivas.jpg
+  - Photo by Leo Rivas on Unsplash
+  - https://unsplash.com/photos/wtxcaDIdOCM
 - john-chavis-memorial-park-rendering-day.jpg
   - City of Raleigh
   - https://raleighnc.gov/sites/default/files/styles/lightbox/public/2019-12/john-chavis-memorial-park-rendering-day.jpg
